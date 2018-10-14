@@ -1,2 +1,3 @@
 # vim-plugins
-The plugins I use for Vim
+My (small) collection of Vim plugins.
+See also: <https://github.com/mmellott/dotfiles>.
